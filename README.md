@@ -18,7 +18,10 @@ Code Explorers (Hobbies)
   <img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge" alt="C#">
   <img src="https://img.shields.io/badge/c%2B%2B-005b99?style=for-the-badge" alt="C++">
 </div>
+<BR>
 
+## Let's exchange ideas! 🤘
+<a href="https://www.x.com/lefweber" target="_blank"><img src="https://img.shields.io/twitter/follow/lefweber" alt=""></a>
 
 
 
