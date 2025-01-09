@@ -1,9 +1,9 @@
 # Hi there! I'm Felipe aka LefWeber! 👽 👋
 <BR>
 
-## Here I go nuts with codes and I love to code! Languages I got into 🖥️ 👇
+## Here I go nuts with codes because I love to code 🖥️ and below are the languages I got into 👇
 
-Core Coders (Daily Use)
+Always Coding
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/php-4F5B93?style=for-the-badge" alt="PHP">
   <img src="https://img.shields.io/badge/js-fdde4b?style=for-the-badge" alt="JavaScript">
@@ -12,7 +12,7 @@ Core Coders (Daily Use)
 </div>
 <BR>
 
-Code Explorers (Hobbies)
+Just for Hobby
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/go-007d9c?style=for-the-badge" alt="Go">
   <img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge" alt="C#">
