@@ -12,9 +12,10 @@ Always Coding
 </div>
 <BR>
 
-Just for Hobby
+Sometimes...
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/go-007d9c?style=for-the-badge" alt="Go">
+  <img src="https://img.shields.io/badge/c-3949AB?style=for-the-badge" alt="C">
   <img src="https://img.shields.io/badge/C%23-512bd4?style=for-the-badge" alt="C#">
   <img src="https://img.shields.io/badge/c%2B%2B-005b99?style=for-the-badge" alt="C++">
 </div>
